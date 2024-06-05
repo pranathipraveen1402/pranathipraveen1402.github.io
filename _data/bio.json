@@ -8,9 +8,11 @@
     "summary": "I am a third year student at PES University, pursuing Bachelor of Technology in CSE.",
     "profiles": [
       { "network": "github", "username": "pranathipraveen1402", "url": "http://github.com/pranathipraveen1402" },
-      { "network": "linkedin", "username": "pranathi-praveen", "url": "www.linkedin.com/in/pranathi-praveen" }
+      { "network": "linkedin", "username": "pranathi-praveen", "url": "https://www.linkedin.com/in/pranathi-praveen" }
     ]
-  },
+  }
+}
+,
   "interests": [
     { "name": "Java & OOAD" },
     { "name": "Cloud Computing" },

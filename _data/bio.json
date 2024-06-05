@@ -1,26 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Pranathi Praveen",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/Pranathie01.png",
+    "email": "pranathipraveen03@gmail.com",
+    "website": "https://pranathipraveen1402.github.io/",
+    "summary": "I am a third year student at PES University, pursuing Bachelor of Technology in CSE.",
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "pranathipraveen1402", "url": "http://github.com/pranathipraveen1402" },
+      { "network": "linkedin", "username": "pranathi-praveen", "url": "www.linkedin.com/in/pranathi-praveen" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Java & OOAD" },
+    { "name": "Cloud Computing" },
+    { "name": "Information & Web Retrieval" },
+    { "name": "Graph Theory" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {

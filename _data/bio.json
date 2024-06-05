@@ -10,16 +10,15 @@
       { "network": "github", "username": "pranathipraveen1402", "url": "http://github.com/pranathipraveen1402" },
       { "network": "linkedin", "username": "pranathi-praveen", "url": "https://www.linkedin.com/in/pranathi-praveen" }
     ]
-  }
-}
-,
+  },
   "interests": [
     { "name": "Java & OOAD" },
     { "name": "Cloud Computing" },
     { "name": "Information & Web Retrieval" },
     { "name": "Graph Theory" },
     { "name": "Machine Learning" }
-  ],
+  ]
+},
   "skills": [
     {
       "name": "Languages and Frameworks",

@@ -16,4 +16,4 @@ This project aims to develop a user-friendly online movie booking system in Java
 
 This project was built as a part of the course Object oriented analysis and Design. The code adheres to many design patterns and principles. The are SOLID, Singleton, Template and Proxies. The front-end is built using Thymeleaf, a modern server-side Java template engine for both web and standalone environments. This was done in order to ensure the MVC architecture is followed. The database used is MongoDB. 
 
-Source: <a href="https://github.com/praakhya/OOAD_ChaplinCinema.git"><i class="large github icon"></i></a>
+Source: https://github.com/praakhya/OOAD_ChaplinCinema.git

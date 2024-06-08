@@ -7,7 +7,7 @@ date: 2024
 labels:
   - Java 
   - Spring Boot
-summary: "This project is a user-friendly online movie booking system built in Java 
+summary: "This project is a user-friendly online movie booking system built in Java" 
 ---
 
 <img width="490" alt="portfolio_MBS" src="https://github.com/pranathipraveen1402/pranathipraveen1402.github.io/assets/105574251/ce68623a-89a7-4544-b0c1-4e082f94835d">

@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
-published: true
+image: ![raftside](https://github.com/pranathipraveen1402/pranathipraveen1402.github.io/assets/105574251/ea6c5132-e3f9-45da-9dcf-89c5dd4584b9)
+title: "Building a Task Management Application with Raft Consensus Algorithm and MySQL"
+date: 2024
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Consensus algorithm
+  - Python
+  - MySQL
+  - Streamlit
+  - Distributed Systems
+summary: "A task management application that utilises the Raft consensus algorithm to ensure consistency and fault tolerance across multiple nodes."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

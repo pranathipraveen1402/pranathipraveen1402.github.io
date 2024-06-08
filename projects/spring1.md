@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="256" alt="MBS_header" src="https://github.com/pranathipraveen1402/pranathipraveen1402.github.io/assets/105574251/eb1ce3e3-490e-4df4-b5e6-cbfe616c776a">
+image: ![MBSHead](https://github.com/pranathipraveen1402/pranathipraveen1402.github.io/assets/105574251/1bcadc4b-1b45-49af-b1c5-df0e391c45ea)
 title: "Movie Booking System"
 date: 2024
 labels:

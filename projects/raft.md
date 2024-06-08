@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/raftside.jpeg
-title: "Building a Task Management Application with Raft Consensus Algorithm and MySQL"
+title: "Building a Task Management App with Raft Consensus Algorithm and MySQL"
 date: 2024
 labels:
   - Consensus algorithm

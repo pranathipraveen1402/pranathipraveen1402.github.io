@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![raftside](https://github.com/pranathipraveen1402/pranathipraveen1402.github.io/assets/105574251/ea6c5132-e3f9-45da-9dcf-89c5dd4584b9)
+image: img/raftside.jpeg
 title: "Building a Task Management Application with Raft Consensus Algorithm and MySQL"
 date: 2024
 labels:

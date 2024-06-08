@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MBSHead.png
+image: img/MBSHead.jpeg
 title: "Movie Booking System"
 date: 2024
 labels:

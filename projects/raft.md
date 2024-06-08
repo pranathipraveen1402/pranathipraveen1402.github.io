@@ -13,16 +13,15 @@ labels:
 summary: "A task management application that utilises the Raft consensus algorithm to ensure consistency and fault tolerance across multiple nodes."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+Objectives:
+● Implement a task management system with Raft consensus algorithm for distributed
+coordination.
+● Utilise MySQL as the backend database to store task data.
+● Ensure fault tolerance and consistency across multiple nodes using Raft.
+● Enable users to perform CRUD operations on tasks via a user-friendly interface.
+● Demonstrate distributed system principles and fault tolerance mechanisms through
+the application.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+We built a front end using streamlit. The main features of this project included an interactive interface that allows users to add, delete, edit and read tasks. The aim was to achieve consistency across all nodes
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/pranathipraveen1402/Raftos">Raftos</a>
